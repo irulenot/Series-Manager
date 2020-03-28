@@ -1,1 +1,0 @@
-C:\Users\abmst\source\repos\hello-world\hello-world\hello-world.csproj;x86

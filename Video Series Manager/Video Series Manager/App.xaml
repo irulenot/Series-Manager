@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="Video_Series_Manager.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Video_Series_Manager">
+
+</Application>
