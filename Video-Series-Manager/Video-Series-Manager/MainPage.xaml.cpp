@@ -34,6 +34,6 @@ MainPage::MainPage()
 void Video_Series_Manager::MainPage::Button_Click(Platform::Object^ sender, Windows::UI::Xaml::RoutedEventArgs^ e)
 {
 	button1->Content = "Morph";
-	const char* command = "echo TEST && pause";
-	system(command);
+	const char* startVlc = "\"C:\\Program Files\\VideoLAN\\VLC\\vlc.exe\"";
+	system(startVlc);
 }

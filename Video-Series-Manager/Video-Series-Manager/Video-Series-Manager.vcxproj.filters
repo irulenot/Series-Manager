@@ -8,9 +8,6 @@
       <UniqueIdentifier>b1b29307-61d0-43f3-bdcb-f00dcf914f39</UniqueIdentifier>
       <Extensions>bmp;fbx;gif;jpg;jpeg;tga;tiff;tif;png</Extensions>
     </Filter>
-    <Filter Include="src">
-      <UniqueIdentifier>{0758cf2e-32b4-4828-a068-d1ad8c313dec}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml" />
@@ -49,10 +46,5 @@
   </ItemGroup>
   <ItemGroup>
     <Page Include="MainPage.xaml" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="src\hello-world.bat">
-      <Filter>src</Filter>
-    </None>
   </ItemGroup>
 </Project>
